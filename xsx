@@ -1,0 +1,49 @@
+[33mcommit 99a43beac9362c110ae63aecf4d0e8efc9ebfe9e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/feature1[m[33m, [m[1;32mfeature1[m[33m)[m
+Merge: 544db91 55f4f59
+Author: laxman-sawant2911 <laxman.sawant111997@gmail.com>
+Date:   Sat May 24 22:14:13 2025 +0530
+
+    testing merge
+
+[33mcommit 55f4f59c401c806e789f6ffae488eab92b5168f6[m
+Author: laxman-sawant2911 <laxman.sawant111997@gmail.com>
+Date:   Sat May 24 22:06:37 2025 +0530
+
+    added new line of code in main branch
+
+[33mcommit 544db9169c524c06552adbd8dc9fb2410c8dc6f2[m
+Author: laxman-sawant2911 <laxman.sawant111997@gmail.com>
+Date:   Sat May 24 22:01:48 2025 +0530
+
+    Added new line
+
+[33mcommit 45d1731bbec1af83b43a131cddd44d48a18869d0[m
+Merge: b019ea7 712703c
+Author: laxman-sawant2911 <laxman.sawant111997@gmail.com>
+Date:   Sat May 24 21:56:00 2025 +0530
+
+    Merged file
+
+[33mcommit 712703ca4e0fbb1b0c35171247566fab3f5b0138[m
+Author: laxman-sawant2911 <laxman.sawant111997@gmail.com>
+Date:   Sat May 24 21:46:09 2025 +0530
+
+    Update index.html
+
+[33mcommit b019ea7bd3184780479bf300295e9a8bc937ea9c[m
+Author: laxman-sawant2911 <laxman.sawant111997@gmail.com>
+Date:   Sat May 24 21:36:06 2025 +0530
+
+    added new line of code in feature2 branch
+
+[33mcommit 53535a90c0b1c97ec5b8588bd943f13fe1ad8bfc[m
+Author: laxman-sawant2911 <laxman.sawant111997@gmail.com>
+Date:   Sat May 24 17:24:21 2025 +0530
+
+    added readme file
+
+[33mcommit 1295d0136f90cfaba25c1235cb6aa9d81e6e5898[m
+Author: laxman-sawant2911 <laxman.sawant111997@gmail.com>
+Date:   Sat May 24 17:09:28 2025 +0530
+
+    Add initial files
